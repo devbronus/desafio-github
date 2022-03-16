@@ -1,1 +1,24 @@
-Aqui está sendo feito uns testes sobre anotação e organização
+comandos básicos:
+- cd (comando para navegar entre as pastas)
+- dir (comando de listagem)
+- CTRL+L (limpar o terminal) 
+- cd.. (voltar)
+- mkdir (criar pasta)
+- echo (printa o que eu digitar)
+- del (deletar arquivos)
+- rmdir "nome da pasta" /S /Q (para deletar a pasta e todos os arquivos dentro dela)
+
+
+Entendendo como o GIT funciona por baixo dos panos
+A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
+A encriptação gera conjunto de characteres identificador de 40 dígitos.
+é uma forma curta de representar um arquivo.
+
+
+BLOBS, TREES, COMMITS
+Sistema distribuído e Seguro
+Por que? Porque ele é único. Qualquer alteração que é feito no documento, é gerado uma outra chave de 40 characteres.
+
+
+Comandos para criar uma chave SSH
+Primeiro, abra o git bash e digite exatamente o que está abaixo:
